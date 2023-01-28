@@ -11,7 +11,7 @@ h1,h4,p,a,h2,h3{
     color: rgb(31, 31, 146);
 }
 a:hover{
-  color:orange
+  color:red
 }
 ul{
     list-style-type: none;

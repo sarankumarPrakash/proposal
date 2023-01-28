@@ -1,3 +1,23 @@
 /* .home{
     background: linear-gradient(#fcffc1, #abf2b9);
 } */
+.text-component{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.text-img{
+    display: flex;
+    justify-content: space-evenly;
+}
+.text-home{
+    width: 50%;
+    margin-top: 6%;
+}
+.img-home{
+    width: 330px;
+    height: 270px;
+    margin-top: 10%;
+    border-radius: 9%;
+    box-shadow: 2px 5px 5px 2px red;
+    
+}
